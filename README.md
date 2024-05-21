@@ -5,16 +5,14 @@
 ## About this portfolio
 
 Technical writing samples in this portfolio include:
-* [Platform Portal overview article](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/Knowledge%20Base%20Article.md)
-* [Auditor Training Guide](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/Auditor_TrainingGuideDEG.pdf)
-* [SAP BOBJ Accelerator Process Automation](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/Automation_BOBJ_Accelerator_ProcessAutomation.pdf)
-* [How-to article](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/How-to.md)
-* [REST API project](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/REST_API_Sample.md)
-* [ERP-Link](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/ERP-Link%20iNet.DM%204.pdf)
-* [Randsomware Whitepaper](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/ACS-Ransomware-Whitepaper.pdf)
-* [TIDAL Playbook](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/TIDAL%20Playbook%20-%20Monitoring%20Files%20on%20Remote%20FTP%20Servers.pdf)
-* [Configuration Guide](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/IAC_3_1_ConfigurationGuide.pdf)
-* [TIDAL Enterprise Scheduler Whitepaper](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/whitepaper.pdf)
+* [Auditor Training Guide](/Welcome%20to%20my%20portfolio!/Samples/Auditor_TrainingGuideDEG.pdf)
+* [SAP BOBJ Accelerator Process Automation](/Welcome%20to%20my%20portfolio!/Samples/Automation_BOBJ_Accelerator_ProcessAutomation.pdf)
+* [REST API project](/Welcome%20to%20my%20portfolio!/Samples/REST_API_Sample.md)
+* [ERP-Link](/Welcome%20to%20my%20portfolio!/Samples/ERP-Link%20iNet.DM%204.pdf)
+* [Randsomware Whitepaper](/Welcome%20to%20my%20portfolio!/Samples/ACS-Ransomware-Whitepaper.pdf)
+* [Playbook](/Welcome%20to%20my%20portfolio!/Samples/TIDAL%20Playbook%20-%20Monitoring%20Files%20on%20Remote%20FTP%20Servers.pdf)
+* [Configuration Guide](/Welcome%20to%20my%20portfolio!/Samples/IAC_3_1_ConfigurationGuide.pdf)
+* [Enterprise Scheduler Whitepaper](/Welcome%20to%20my%20portfolio!/Samples/whitepaper.pdf)
 
 For additional documentation sample requests, <a href="mailto:JuliaLDegnan@yahoo.com">send me an email</a>.
 
