@@ -4,13 +4,13 @@ Thank you for taking the time to review my portfolio!
 
 ## About this portfolio
 
-My writing samples in this portfolio include a [how-to article](https://hp.service-now.com/kb_view.do?sysparm_article=KB0013603), [Auditor Training Guide](/Welcome%20to%20my%20portfolio!/Samples/Auditor_TrainingGuideDEG.pdf), [Knowledge Base article](https://hp.service-now.com/wexkb?id=kb_article&sysparm_article=KB0013603), and a [REST API project](/Welcome%20to%20my%20portfolio!/Samples/REST_API_Sample.md).
+My writing samples in this portfolio include a [Platform Portal overview article](https://hp.service-now.com/kb_view.do?sysparm_article=KB0013603), a [Auditor Training Guide](/Welcome%20to%20my%20portfolio!/Samples/Auditor_TrainingGuideDEG.pdf), a [How-to article](https://hp.service-now.com/wexkb?id=kb_article&sysparm_article=KB0013645), and a [REST API project](/Welcome%20to%20my%20portfolio!/Samples/REST_API_Sample.md).
 
 ## About me
 
-As a Staff and CW Technical Writer, I owned entire documentation sets for various projects hosted on platforms such as, AWS, SAP, IBM Cloud, and Microsoft Azure.
+As a seasoned Staff and CW Technical Writer, I owned entire documentation sets for various projects hosted on platforms such as, AWS, SAP, IBM Cloud, and Microsoft Azure.
 
-## My process
+## My documentation process
 
 My documentation process is as follows:
 
