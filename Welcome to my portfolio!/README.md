@@ -4,7 +4,7 @@ Thank you for taking the time to review my portfolio!
 
 ## About this portfolio
 
-My writing samples in this portfolio include a [how-to article](https://hp.service-now.com/kb_view.do?sysparm_article=KB0013603), [Auditor Training Guide](.Auditor_TrainingGuideDEG.pdf), [Knowledge Base article](https://hp.service-now.com/wexkb?id=kb_article&sysparm_article=KB0013603), and a [REST API project](./Samples/REST_API_Sample.md).
+My writing samples in this portfolio include a [how-to article](https://hp.service-now.com/kb_view.do?sysparm_article=KB0013603), [Auditor Training Guide](/Welcome%20to%20my%20portfolio!/Samples/Auditor_TrainingGuideDEG.pdf), [Knowledge Base article](https://hp.service-now.com/wexkb?id=kb_article&sysparm_article=KB0013603), and a [REST API project](/Welcome%20to%20my%20portfolio!/Samples/REST_API_Sample.md).
 
 ## About me
 
