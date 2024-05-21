@@ -12,11 +12,9 @@ Technical writing samples in this portfolio include:
 
 For additional documentation sample requests, <a href="mailto:JuliaLDegnan@yahoo.com">send me an email</a>.
 
-## About me
+## My documentation process
 
 As a seasoned Staff and CW Technical Writer, I owned entire documentation sets for various projects hosted on platforms such as, AWS, SAP, IBM Cloud, and Microsoft Azure.
-
-## My documentation process
 
 My documentation process is as follows:
 
