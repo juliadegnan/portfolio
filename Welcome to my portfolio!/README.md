@@ -1,4 +1,4 @@
-# Julia Degnan Tech Writing Portfolio Samples
+# Julia Degnan Tech Writing Samples Portfolio
 
 *Thank you for taking the time to review my portfolio!*
 
