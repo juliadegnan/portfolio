@@ -1,12 +1,16 @@
-# Julia Degnan Tech Writing Portfolio Samples
+# Julia Degnan Tech Writing Samples Portfolio
 
-*Thank you for taking the time to review my portfolio!*
+*Thank you for taking the time to review my samples portfolio!*
 
 ## About this portfolio
 
-My writing samples in this portfolio include a [Platform Portal overview article](https://hp.service-now.com/kb_view.do?sysparm_article=KB0013603), [Auditor Training Guide](/Welcome%20to%20my%20portfolio!/Samples/Auditor_TrainingGuideDEG.pdf), [How-to article](https://hp.service-now.com/wexkb?id=kb_article&sysparm_article=KB0013645), and [REST API project](/Welcome%20to%20my%20portfolio!/Samples/REST_API_Sample.md).
+Technical writing samples in this portfolio include:
+* [Platform Portal overview article](/Julia's%20Tech%20Writing%20Samples%20Portfolio/Samples/Knowledge%20Base%20Article.md)
+* [Auditor Training Guide](/Julia's%20Tech%20Writing%20Samples%20Portfolio/Samples/Auditor_TrainingGuideDEG.pdf)
+* [How-to article](/Julia's%20Tech%20Writing%20Samples%20Portfolio/Samples/How-to.md)
+* [REST API project](/Julia's%20Tech%20Writing%20Samples%20Portfolio/Samples/REST_API_Sample.md)
 
-Please email me at JuliaLDegnan@yahoo.com with requests for additional documentation samples.
+For additional documentation sample requests, <a href="mailto:JuliaLDegnan@yahoo.com">send me an email</a>.
 
 ## About me
 
