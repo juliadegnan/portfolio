@@ -5,10 +5,10 @@
 ## About this portfolio
 
 Technical writing samples in this portfolio include:
-* [Platform Portal overview article](/Julia's%20Tech%20Writing%20Samples%20Portfolio/Samples/Knowledge%20Base%20Article.md)
-* [Auditor Training Guide](/Julia's%20Tech%20Writing%20Samples%20Portfolio/Samples/Auditor_TrainingGuideDEG.pdf)
-* [How-to article](/Julia's%20Tech%20Writing%20Samples%20Portfolio/Samples/How-to.md)
-* [REST API project](/Julia's%20Tech%20Writing%20Samples%20Portfolio/Samples/REST_API_Sample.md)
+* [Platform Portal overview article](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/Knowledge%20Base%20Article.md)
+* [Auditor Training Guide](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/Auditor_TrainingGuideDEG.pdf)
+* [How-to article](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/How-to.md)
+* [REST API project](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/REST_API_Sample.md)
 
 For additional documentation sample requests, <a href="mailto:JuliaLDegnan@yahoo.com">send me an email</a>.
 
