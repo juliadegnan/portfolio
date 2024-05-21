@@ -7,6 +7,7 @@
 Technical writing samples in this portfolio include:
 * [Platform Portal overview article](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/Knowledge%20Base%20Article.md)
 * [Auditor Training Guide](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/Auditor_TrainingGuideDEG.pdf)
+*[BOBJ Accelerator Process Automation](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/Automation_BOBJ_Accelerator_ProcessAutomation.pdf)
 * [How-to article](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/How-to.md)
 * [REST API project](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/REST_API_Sample.md)
 * [ERP-Link](/Welcome%20to%20my%20writing%20samples%20portfolio!/Samples/ERP-Link%20iNet.DM%204.pdf)
