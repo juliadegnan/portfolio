@@ -6,6 +6,8 @@ Thank you for taking the time to review my portfolio!
 
 My writing samples in this portfolio include a [Platform Portal overview article](https://hp.service-now.com/kb_view.do?sysparm_article=KB0013603), [Auditor Training Guide](/Welcome%20to%20my%20portfolio!/Samples/Auditor_TrainingGuideDEG.pdf), [How-to article](https://hp.service-now.com/wexkb?id=kb_article&sysparm_article=KB0013645), and [REST API project](/Welcome%20to%20my%20portfolio!/Samples/REST_API_Sample.md).
 
+Please email me at JuliaLDegnan@yahoo.com with requests for additional documentation samples.
+
 ## About me
 
 As a seasoned Staff and CW Technical Writer, I owned entire documentation sets for various projects hosted on platforms such as, AWS, SAP, IBM Cloud, and Microsoft Azure.
