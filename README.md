@@ -5,6 +5,7 @@ Writing samples in this portfolio include a diverse range of documentation, desi
 ### Included samples
 * [REST API project](/Welcome%20to%20my%20portfolio!/Samples/REST_API_Sample.md): A detailed guide for integrating REST APIs, including technical specifications, use cases, and implementation strategies.
 * [PS5 Quick Start Guide](/Welcome%20to%20my%20portfolio!/Samples/PS5_Quick_Start_Guide.pdf): A technical document featuring simplified instructions for installing the PS5 hardware, key tips, and visual aids for easy understanding and implementation of essential functions.
+* [Semiconductor Chip Datasheet](/Welcome%20to%20my%20portfolio!/Samples/Semiconductor_Datasheet.pdf): A datasheet for a semiconductor chip providing detailed technical specifications, operating conditions, and performance characteristics essential for engineers and designers to implement the chip.
 * [Auditor Training Guide](/Welcome%20to%20my%20portfolio!/Samples/Auditor_TrainingGuideDEG.pdf): A comprehensive manual designed to provide step-by-step instructions for training auditors, ensuring compliance and consistency in audit processes.
 * [SAP BOBJ Accelerator Process Automation](/Welcome%20to%20my%20portfolio!/Samples/Automation_BOBJ_Accelerator_ProcessAutomation.pdf): Documentation outlining process automation techniques for optimizing performance using SAP BusinessObjects tools.
 * [ERP-Link](/Welcome%20to%20my%20portfolio!/Samples/ERP-Link%20iNet.DM%204.pdf): A technical document focusing on ERP system integration and linking solutions for improved operational efficiency.
