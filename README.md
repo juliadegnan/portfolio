@@ -3,9 +3,9 @@
 ## About this portfolio
 Writing samples in this portfolio include a diverse range of documentation, designed to meet the specific needs of various industries and audiences. These samples demonstrate proficiency in creating clear, concise, and effective technical materials.
 ### Included samples
+* [REST API project](/Welcome%20to%20my%20portfolio!/Samples/REST_API_Sample.md): A detailed guide for integrating REST APIs, including technical specifications, use cases, and implementation strategies.
 * [Auditor Training Guide](/Welcome%20to%20my%20portfolio!/Samples/Auditor_TrainingGuideDEG.pdf): A comprehensive manual designed to provide step-by-step instructions for training auditors, ensuring compliance and consistency in audit processes.
 * [SAP BOBJ Accelerator Process Automation](/Welcome%20to%20my%20portfolio!/Samples/Automation_BOBJ_Accelerator_ProcessAutomation.pdf): Documentation outlining process automation techniques for optimizing performance using SAP BusinessObjects tools.
-* [REST API project](/Welcome%20to%20my%20portfolio!/Samples/REST_API_Sample.md): A detailed guide for integrating REST APIs, including technical specifications, use cases, and implementation strategies.
 * [ERP-Link](/Welcome%20to%20my%20portfolio!/Samples/ERP-Link%20iNet.DM%204.pdf): Technical documentation focusing on ERP system integration and linking solutions for improved operational efficiency.
 * [Randsomware Whitepaper](/Welcome%20to%20my%20portfolio!/Samples/ACS-Ransomware-Whitepaper.pdf): An in-depth analysis of ransomware threats, preventive measures, and response strategies aimed at safeguarding critical systems.
 * [Playbook](/Welcome%20to%20my%20portfolio!/Samples/TIDAL%20Playbook%20-%20Monitoring%20Files%20on%20Remote%20FTP%20Servers.pdf): A strategic operational guide designed for teams, detailing best practices, workflows, and troubleshooting tips.
