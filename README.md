@@ -1,6 +1,5 @@
 ## About This Portfolio
-This portfolio showcases technical documentation I’ve produced across a variety of industries and for diverse audiences. It demonstrates my ability to create accurate, well-structured, and implementation-ready content tailored to developers, engineers, auditors, and enterprise users. The work highlights my skill in translating complex technical concepts into clear, actionable guidance while maintaining compliance, usability, and consistency across documentation sets.
-## Included Samples
+This portfolio showcases technical documentation I’ve created across a range of industries and for diverse audiences. It demonstrates my ability to produce accurate, well-structured, and implementation-ready content tailored to developers, engineers, auditors, and enterprise users. The samples highlight my skill in translating complex technical concepts into clear, actionable guidance while maintaining compliance, usability, and consistency. The included examples are as follows:
 * **REST API Project** – End-to-end integration guide including technical specifications, use cases, and implementation strategies.
 * **PS5 Quick Start Guide** – Simplified hardware setup instructions with visuals for fast onboarding.
 * **MOST Semiconductor Data Sheet** – Detailed specifications, operating conditions, and performance characteristics for engineering use.
