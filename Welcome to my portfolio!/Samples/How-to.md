@@ -1,1 +1,0 @@
-[Platform Portal overview and how-to article](https://hp.service-now.com/kb_view.do?sysparm_article=KB0013603)
