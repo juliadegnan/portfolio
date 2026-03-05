@@ -3,6 +3,9 @@ This portfolio showcases technical documentation I’ve created across a range o
 * **REST API Project** – End-to-end integration guide including technical specifications, use cases, and implementation strategies.
 * **PS5 Quick Start Guide** – Simplified hardware setup instructions with visuals for fast onboarding.
 * **MOST Semiconductor Data Sheet** – Detailed specifications, operating conditions, and performance characteristics for engineering use.
+* **Advanced Services Statement of Work General Assumptions and Exclusions** – General assumptions and exclusions that have been incorporated into SOW with Cisco.
+* **Service Description: Security Design Assessment** – This document describes the Security Design Assessment (SDA).
+* **Data_Processing_Agreement_SOW** – This document is a SOW that supplements the Master Supplier Agreement between <COMPANY REDACTED> and Supplier and governs Supplier’s Processing of <COMPANY REDACTED> Personal Data.
 * **Auditor Training Guide** – Step-by-step manual ensuring audit consistency and compliance.
 * **SAP BOBJ Accelerator Process Automation** – Documentation for optimizing performance through automation.
 * **Gimmal ERP-Link** – Technical guide for ERP integration and system connectivity.
