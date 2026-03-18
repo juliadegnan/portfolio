@@ -1,19 +1,20 @@
 ## About This Portfolio
 This portfolio showcases technical documentation I’ve created across a range of industries and for diverse audiences. It demonstrates my ability to produce accurate, well-structured, and implementation-ready content tailored to developers, engineers, auditors, and enterprise users. The samples highlight my skill in translating complex technical concepts into clear, actionable guidance while maintaining compliance, usability, and consistency. The included examples are as follows:
-* **REST API Project** – End-to-end integration guide including technical specifications, use cases, and implementation strategies.
-* **PS5 Quick Start Guide** – Simplified hardware setup instructions with visuals for fast onboarding.
-* **MOST Semiconductor Data Sheet** – Detailed specifications, operating conditions, and performance characteristics for engineering use.
-* **Amazon Vendor Enrollment and Contact SOP** – This document serves as the Standard Operating Procedure (SOP) for Vendors to self-test and certify, enroll, request their ASIN portfolio packaging certification status, and contact Amazon with other general questions about Amazon’s Ship in Product Packaging (SIPP) Program. 
-* **Advanced Services Statement of Work General Assumptions and Exclusions** – General assumptions and exclusions that have been incorporated into SOW with Cisco.
-* **Service Description: Security Design Assessment** – This document describes the Security Design Assessment (SDA).
-* **Data_Processing_Agreement_SOW** – This document is a SOW that supplements the Master Supplier Agreement between <COMPANY REDACTED> and Supplier and governs Supplier’s Processing of <COMPANY REDACTED> Personal Data.
+* **ACS Ransomware Whitepaper** – Analysis of threats, prevention, and response strategies for securing critical systems.
 * **Auditor Training Guide** – Step-by-step manual ensuring audit consistency and compliance.
 * **SAP BOBJ Accelerator Process Automation** – Documentation for optimizing performance through automation.
-* **Gimmal ERP-Link** – Technical guide for ERP integration and system connectivity.
-* **Ransomware Whitepaper** – Analysis of threats, prevention, and response strategies for securing critical systems.
-* **Playbook** – Operational guide outlining workflows, best practices, and troubleshooting.
-* **Configuration Guide** – User-focused setup and configuration manual for software or hardware systems.
+* **Data_Processing_Agreement_SOW** – This document is a SOW that supplements the Master Supplier Agreement between <COMPANY REDACTED> and Supplier and governs Supplier’s Processing of <COMPANY REDACTED> Personal Data.
+* **Gimmal ERP-Link iNet.DM 4** – Technical guide for ERP integration and system connectivity.
+* **IAC 3.1 Configuration Guide** – User-focused setup and configuration manual for software or hardware systems.
+* **MOST Semiconductor Data Sheet** – Detailed specifications, operating conditions, and performance characteristics for engineering use.
+* **PS5 Quick Start Guide** – Simplified hardware setup instructions with visuals for fast onboarding.
+* **REST API Project** – End-to-end integration guide including technical specifications, use cases, and implementation strategies.
+* **Advanced Services General Assumptions and Exclusions SOW** – General assumptions and exclusions that have been incorporated into SOW with Cisco.
+* **TIDAL Playbook** – Operational guide outlining workflows, best practices, and troubleshooting.
+* **The 3dfx Voodoofiles Forum** – Overview of 3dfx graphics card issues and solutions, providing troubleshooting, compatibility guidance, and performance support using practical and community expertise.
+* **Amazon Vendor Enrollment and Contact SOP** – This document serves as the Standard Operating Procedure (SOP) for Vendors to self-test and certify, enroll, request their ASIN portfolio packaging certification status, and contact Amazon with other general questions about Amazon’s Ship in Product Packaging (SIPP) Program.
 * **Enterprise Scheduler Whitepaper** – Advanced scheduling strategies for large-scale enterprise environments.
+* **Service Description: Security Design Assessment** – This document describes the Security Design Assessment (SDA).
 For additional samples or project-specific requests, I am happy to provide more documentation or discuss how my experience aligns with your needs.
 ## My Documentation Process
 As a Staff and Contract Technical Writer, I have managed large-scale documentation initiatives across platforms including Amazon Web Services, SAP, IBM Cloud, Microsoft Azure, ServiceNow, Salesforce, Dynamics 365, Tidal Enterprise Scheduler, and enterprise DevOps environments using GitHub and Azure DevOps.
