@@ -14,7 +14,7 @@ This portfolio showcases technical documentation I’ve created across a range o
 * **The 3dfx Voodoofiles Forum** – Overview of 3dfx graphics card issues and solutions, providing troubleshooting, compatibility guidance, and performance support using practical and community expertise.
 * **Amazon Vendor Enrollment and Contact SOP** – This document serves as the Standard Operating Procedure (SOP) for Vendors to self-test and certify, enroll, request their ASIN portfolio packaging certification status, and contact Amazon with other general questions about Amazon’s Ship in Product Packaging (SIPP) Program.
 * **Enterprise Scheduler Whitepaper** – Advanced scheduling strategies for large-scale enterprise environments.
-* **Service Description: Security Design Assessment** – This document describes the Security Design Assessment (SDA).
+* **Service Description: Security Design Assessment (SDA)** – This document describes the Security Design Assessment (SDA).
 For additional samples or project-specific requests, I am happy to provide more documentation or discuss how my experience aligns with your needs.
 ## My Documentation Process
 As a Principal Technical Writer, I create clear, practical, and scalable documentation for APIs, cloud, and DevOps platforms, translating complex systems into usable guides that align with engineering intent.
