@@ -17,16 +17,17 @@ This portfolio showcases technical documentation I’ve created across a range o
 * **Service Description: Security Design Assessment** – This document describes the Security Design Assessment (SDA).
 For additional samples or project-specific requests, I am happy to provide more documentation or discuss how my experience aligns with your needs.
 ## My Documentation Process
-As a Staff and Contract Technical Writer, I have managed large-scale documentation initiatives across platforms including Amazon Web Services, SAP, IBM Cloud, Microsoft Azure, ServiceNow, Salesforce, Dynamics 365, Tidal Enterprise Scheduler, and enterprise DevOps environments using GitHub and Azure DevOps.
-My process includes:
-1. Reviewing engineering pull requests and testing functionality as the first user
-2. Documenting steps, commands, issues, and edge cases
-3. Validating understanding with lead engineers
-4. Drafting, editing, and refining content for clarity and consistency
-5. Submitting documentation for review via pull requests or established workflows
-6. Publishing finalized deliverables
+As a Principal Technical Writer, I create clear, practical, and scalable documentation for APIs, cloud, and DevOps platforms, translating complex systems into usable guides that align with engineering intent.
 
-This approach ensures technical accuracy, practical usability, and close alignment with engineering intent. By validating functionality firsthand and collaborating directly with subject matter experts, I reduce ambiguity, surface edge cases early, and ensure documentation reflects how systems actually behave in production. The result is content that developers and enterprise users can trust to implement, configure, and support solutions with confidence.
+My process is as follows:
+
+* Create clear, scalable documentation for APIs, cloud, and DevOps platforms (AWS, Azure, Salesforce, ServiceNow, SAP, Dynamics 365).
+* Review code, test functionality, and validate workflows with engineers to ensure technical accuracy.
+* Standardize content with templates, metadata, naming conventions, and version control for consistency and governance.
+* Publish centralized documentation that supports adoption, compliance, and operational efficiency.
+
+**Outcome**: Delivers accurate, standardized, and scalable documentation for APIs, cloud, and DevOps platforms, improving efficiency, onboarding, and adoption across complex systems.
+
 ## Evidence of Exceptional Ability
 ### Language and Communication Proficiency
 * **Challenge:** Inconsistent tone and style when integrating new content into existing documentation.
