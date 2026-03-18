@@ -18,7 +18,7 @@ This portfolio showcases technical documentation I’ve created across a range o
 
 For additional samples or project-specific requests, I am happy to provide more documentation or discuss how my experience aligns with your needs.
 ## My Documentation Process
-As a Principal Technical Writer, I create clear, practical, and scalable documentation for APIs, cloud, and DevOps platforms, translating complex systems into usable guides that align with engineering intent.
+As a Principal Technical Writer, I create clear, practical, and scalable documentation for APIs, cloud, and DevOps platforms. I translate complex architectures, workflows, and system integrations into user-friendly guides that align with engineering intent and operational requirements. My work ensures developers and enterprise teams can implement, configure, and support solutions efficiently while reducing ambiguity, accelerating onboarding, and improving cross-team collaboration. I also standardize documentation through templates, version control, and governance practices to maintain consistency, accuracy, and long-term usability across large-scale technical environments.
 
 My process is as follows:
 
