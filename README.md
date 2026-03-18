@@ -2,8 +2,8 @@
 This portfolio showcases technical documentation I’ve created across a range of industries and for diverse audiences. It demonstrates my ability to produce accurate, well-structured, and implementation-ready content tailored to developers, engineers, auditors, and enterprise users. The samples highlight my skill in translating complex technical concepts into clear, actionable guidance while maintaining compliance, usability, and consistency. The included examples are as follows:
 * **ACS Ransomware Whitepaper** – Analysis of threats, prevention, and response strategies for securing critical systems.
 * **Auditor Training Guide** – Step-by-step manual ensuring audit consistency and compliance.
-* **SAP BOBJ Accelerator Process Automation** – Documentation for optimizing performance through automation.
-* **Data_Processing_Agreement_SOW** – This document is a SOW that supplements the Master Supplier Agreement between <COMPANY REDACTED> and Supplier and governs Supplier’s Processing of <COMPANY REDACTED> Personal Data.
+* **Cisco TEO—Process Automation Guide for SAP BOBJ Accelerator** – Documentation for Cisco TEO users detailing process automation workflows within the SAP BOBJ Accelerator.
+* **Data_Processing_Agreement_SOW** – Statement of Work (SOW) supplementing the Master Supplier Agreement between <COMPANY REDACTED> and Supplier and governing Supplier’s processing of <COMPANY REDACTED> Personal Data.
 * **Gimmal ERP-Link iNet.DM 4** – Technical guide for ERP integration and system connectivity.
 * **IAC 3.1 Configuration Guide** – User-focused setup and configuration manual for software or hardware systems.
 * **MOST Semiconductor Data Sheet** – Detailed specifications, operating conditions, and performance characteristics for engineering use.
